@@ -1,3 +1,0 @@
-### Afflictions
-An Affliction is a brief, temporary affliction gained in combat that is tracked with a numerical value. When an Affliction has a value greater than 0 a creature will often take some sort of penalty. Afflictions typically count down after their effect is relevant, but can also be removed when a creature _Recovers_.
-&nbsp;

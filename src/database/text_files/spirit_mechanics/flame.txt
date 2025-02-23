@@ -1,5 +1,0 @@
-Flame is an element that is able to easily conjure and creature their own _Sources_.  Any space that is not a Water Source is treated as a _Minor Source_ for Flame Spirit abilities, while any _Flame_ Terrain or _Features_ are treated as a _Major Source_, in addition to _Alight_ creatures. Except in extreme circumstances Flamebonded can essentially treat the entire battlefield as a _Minor Source_ as they spread _Major Sources_ across it.
-
-&nbsp;
-
-Flamebound act as _Suppressed_ when _Soaked_ or at a _Position_ with _Water_ _Terrain_, and _Sealed_ when _Swimming_ in Water.

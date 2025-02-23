@@ -1,3 +1,0 @@
-### Mental Afflictions
-Mental Afflictions are a condition caused by foreign influence on a creature's state of being, and function similarly to Elemental Afflictions; they are tracked with Tokens and tend to offset one another.
-&nbsp;
